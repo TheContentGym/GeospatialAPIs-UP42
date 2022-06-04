@@ -7,6 +7,7 @@ A workflow includes the following:
 - **One or more processing blocks**: A processing block is an operator for processing the previous data source or processing block output. 
 
 ![An Example Workflow](images/Workflow.png)
+
 <b>Image - A workflow with a data block and two processing blocks </b>
 
 
