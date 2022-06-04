@@ -31,9 +31,9 @@ You can find the values for Project ID and Project API Key in the [Console](http
 ```json
 {
     "data": {
-        "accessToken": "eyJ0eXAiOiZ_4cSfvdFLV...88rd61GGB5gcifE8Ko96LqM"
+        "accessToken": "eyJ0eXAiOiZ_4cSfvdFLV...88rd61GGB5gcifE8Ko96LqM" # Shortened for visibility
     },
-        "accessToken": "eyJ0eXAiOiZ_4cSfvdFLV...88rd61GGB5gcifE8Ko96LqM",
+        "accessToken": "eyJ0eXAiOiZ_4cSfvdFLV...88rd61GGB5gcifE8Ko96LqM", # Shortened for visibility
     "token_type": "bearer"
 }
 ```
