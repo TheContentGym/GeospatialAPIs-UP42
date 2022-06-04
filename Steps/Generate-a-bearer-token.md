@@ -37,10 +37,10 @@ You can find the values for Project ID and Project API Key in the [Console](http
     "token_type": "bearer"
 }
 ```
-Copy the value of `accessToken` to make requests. You can use the `accessToken` value to make API requests on UP42 server. For example, authorization using the bearer token to display available collections of images appears as follows in Postman: 
+Copy the value of `accessToken` to make requests. You can use the `accessToken` value to make API requests on the UP42 server. For example, authorization using the bearer token to display available collections of images appears as follows in Postman: 
 ![Example: Bearer Token Used To Make A Call In Postman](images/2_BearerTokenUsedToMakeCall.png)
 
-**Important:** The bearer token is valid for 5 minutes. After 5 minutes, use this process again to generate bearer token and make further requests.  
+**Important:** The bearer token is valid for 5 minutes. After 5 minutes, use this process again to generate the bearer token and make further requests.  
 
 **Next step:** [3. Create a workflow that includes the data and one or more processing blocks](Create-a-workflow-that-includes-the-data-and-one-or-more-processing-blocks.md)
 

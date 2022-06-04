@@ -1,4 +1,4 @@
-# 4.Configure and Run The Job
+# 4. Configure and Run The Job
 
 A job is a unique instance of a pre-configured workflow that delivers the outputs defined by the JSON parameters in the job configuration. In this use case, we have the UP42_challenge.geojson file that defines this configuration. 
 
@@ -110,7 +110,7 @@ TODO: Fix this code sample
 ```
 `[QuestionToSME: I couldn't make this geojson file work in postman. I got the message: "There were additional tasks/queries specified: aws-s2-l2a:1, s2-superresolution:1, There were missing tasks/queries: terracover-realsat:1, sobloo-s2-l1c-fullscene:1","]`
 
-**Pro-tip:** Set the `clip_to_aoi` parameter to `true` to save on data. Set the `max_cloud_cover` parameter to `10` to use a clearer data set with max 10% cloud cover. `[TODO: Add more detail.]`
+**Pro-tip:** Set the `clip_to_aoi` parameter to `true` to save on data. Set the `max_cloud_cover` parameter to `10` to use a clearer image data set with a max 10% cloud cover. `[TODO: Add more detail.]`
 
  ## Sample Request Body/Payload
  [See json file](https://github.com/TheContentGym/GeospatialAPIs-UP42/blob/main/Steps/Examples/CreateAndRunJob_response.json)

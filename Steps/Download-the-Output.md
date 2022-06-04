@@ -3,7 +3,7 @@
 
 After your job is complete, you can download the data processed by the workflow you specified. 
 
-**Protip:** You can use webhooks to set up alert for completion of your workflow processing. 
+**Protip:** You can use webhooks to set up alerts for the completion of your workflow processing. 
 
 ## URL and Parameters
 
