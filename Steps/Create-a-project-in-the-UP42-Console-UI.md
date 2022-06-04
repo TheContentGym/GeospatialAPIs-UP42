@@ -6,7 +6,7 @@ Create a project and make note of your access credentials.
 - Access to commercial data, if required
 - Account Access enabled after attaching a credit or by contacting sales@up42.com
 ## Steps
-1. Log in to the UP42 console.
+1. Log in to the [UP42 console](https://console.up42.com/).
 2. Click **Projects** > **Start a Project**.
 3. Specify Name and Description for the project and click Save.
 4. Select the project name and then click **Developers**.
