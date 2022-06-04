@@ -1,6 +1,3 @@
----
-stoplight-id: 92c7b3akyvhno
----
 
 # 3. Create a workflow
 A workflow is a Directed Acyclic Graph (DAG) of data and processing blocks. The workflow defines the order in which each operation associated with a certain block is performed.
@@ -114,4 +111,4 @@ For more information on locating such a dataset, See Search in the catalog.
 ### Sample response
 See file
 
-
+**Next step:** [4. Configure the job/process](Configure-the-job.md)
