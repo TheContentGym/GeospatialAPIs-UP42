@@ -1,6 +1,6 @@
 # Overview
 The following graphic gives you a sequence and overview of the steps involved in:
-- Processing a territory using the UP42 APIs
+- Analyzing a territory using the UP42 APIs
 - Using QGIS to visualize the data returned by the UP42 APIs.
 
 ![Steps involved in processing a territory using the UP42 APIs](UP42.drawio.png)
