@@ -1,7 +1,3 @@
----
-stoplight-id: 59i4xmijc24kl
----
-
 # 4.Configure The Job
 
 A job is a unique instance of a pre-configured workflow that delivers the outputs defined by the JSON parameters in the job configuration. In this use case, we have the UP42_challenge.geojson file that defines this configuration. 
