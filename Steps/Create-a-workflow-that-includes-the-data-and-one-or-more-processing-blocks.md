@@ -90,7 +90,7 @@ blockID | Id for the block **(question: Where to find this? How can the user pos
   {
     "name": "Block Number 1",
     "parentName": null, # no parent block for the first block
-    "blockId": "defb134b-ca00-4e16-afa0-639c6dc0c5fe"
+    "blockId": "693dc83c-41d6-4942-8fd0-74d88eba57f8" #Id of a data block that meets the specs. More SPOT 6/7 datasets available at: https://docs.up42.com/tasking/datasets/spot
   },
   {
     "name": "Block Number 2",
@@ -108,7 +108,7 @@ Image Parameter | Value |
  Image type | Optical (true color)/RGB |
  Sensor |SPOT 6/7 |
 
-For more information on locating such a dataset, See Search in the catalog.
+You can use the Id 30bea695-32c4-41a6-bf42-ea7cde644eb0 of the Tristereo Analytic data set.	More SPOT 6/7 datasets are listed at: [SPOT 6/7](https://docs.up42.com/tasking/datasets/spot). For more information on locating such a dataset, See [Search in the catalog](https://docs.up42.com/developers/api#operation/CatalogSearch).
 ### Sample response
 See file
 

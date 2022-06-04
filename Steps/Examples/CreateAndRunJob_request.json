@@ -1,0 +1,20 @@
+{
+  "sobloo-s2-l1c-fullscene:1": {
+    "ids": null,
+    "time": "2018-01-01T00:00:00+00:00/2021-12-31T23:59:59+00:00",
+    "limit": 1,
+    "time_series": null,
+    "max_cloud_cover": 100,
+    "bbox": [
+      15.281896591186525,
+      37.843139212870334,
+      15.301809310913086,
+      37.85405097280397
+    ]
+  },
+  "terracover-realsat:1": {
+    "bbox": null,
+    "contains": null,
+    "intersects": null
+  }
+}
