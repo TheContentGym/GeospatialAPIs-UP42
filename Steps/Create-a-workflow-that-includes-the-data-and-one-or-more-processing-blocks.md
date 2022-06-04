@@ -110,7 +110,7 @@ Image Parameter | Value |
 
 You can use the Id 30bea695-32c4-41a6-bf42-ea7cde644eb0 of the Tristereo Analytic data set.	More SPOT 6/7 datasets are listed at: [SPOT 6/7](https://docs.up42.com/tasking/datasets/spot). For more information on locating such a dataset, See [Search in the catalog](https://docs.up42.com/developers/api#operation/CatalogSearch).
 ### Sample response
-[See file](/Examples/Create_Workflow_Task_response.json)
+[See json file](/Examples/Create_Workflow_Task_response.json)
 
 **Next step:** [4. Configure the job/process](Configure-the-job.md)
 
