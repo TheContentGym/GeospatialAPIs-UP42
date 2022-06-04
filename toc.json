@@ -1,0 +1,70 @@
+{
+  "items": [
+    {
+      "type": "divider",
+      "title": "Processing Satellite Imagery Using UP42 APIs"
+    },
+    {
+      "type": "item",
+      "title": "Overview",
+      "uri": "Overview/Overview.md"
+    }
+    ,
+    {
+      "type": "item",
+      "title": "Geospatial APIs",
+      "uri": "Overview/GeospatialAPIs.md"
+    }
+    ,
+   
+    {
+      "type": "group",
+      "title": "Steps",
+      "uri": "Overview/Overview.md",
+      "items": [
+       {
+      "type": "item",
+      "title": "1. Create a Project",
+      "uri": "Steps/Create-a-project-in-the-UP42-Console-UI.md"
+    }
+        ,
+   {
+      "type": "item",
+      "title": "2. Generate a Bearer Token",
+      "uri": "Steps/Generate-a-bearer-token.md"
+    }
+        ,
+   {
+      "type": "item",
+      "title": "3. Create a Workflow",
+      "uri": "Steps/Create-a-workflow-that-includes-the-data-and-one-or-more-processing-blocks.md"
+    }
+        ,
+   {
+      "type": "item",
+      "title": "4. Configure The Job",
+      "uri": "Steps/Configure-the-job.md"
+    }
+         ,
+   {
+      "type": "item",
+      "title": "5. Specify the AOI and Run the Job",
+      "uri": "Steps/Specify-the-area-and-run-the-job.md"
+    }
+        ,
+   {
+      "type": "item",
+      "title": "6. Download The Output",
+      "uri": "Steps/Download-the-Output.md"
+    }
+        ,
+   {
+      "type": "item",
+      "title": "7. Download QSIG and Visualize the Downloaded Data",
+      "uri": "Steps/Download-QGIS-and-Visualize-the-Downloaded-Data.md"
+    }
+      ]
+    }
+  ]
+  
+}
