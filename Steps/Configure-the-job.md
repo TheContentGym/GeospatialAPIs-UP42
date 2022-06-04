@@ -114,3 +114,6 @@ TODO: Fix this code sample
 ```
 **Pro-tip:** Set the clip_to_aoi parameter to true to save on data.  TODO: Add more detail.
 
+**Next step:** [5. Specify the area to be processed and Run the job](Specify-the-area-and-run-the-job.md) 
+
+[Back To Overview](../blob/Overview.md)
