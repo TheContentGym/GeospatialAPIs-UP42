@@ -90,7 +90,7 @@ blockID | Id for the block **(question: Where to find this? How can the user pos
   {
     "name": "Block Number 1",
     "parentName": null, # no parent block for the first block
-    "blockId": "693dc83c-41d6-4942-8fd0-74d88eba57f8" #Id of a data block that meets the specs. More SPOT 6/7 datasets available at: https://docs.up42.com/tasking/datasets/spot
+    "blockId": "30bea695-32c4-41a6-bf42-ea7cde644eb0" #Id of a data block that meets the specs. More SPOT 6/7 datasets available at: https://docs.up42.com/tasking/datasets/spot
   },
   {
     "name": "Block Number 2",
