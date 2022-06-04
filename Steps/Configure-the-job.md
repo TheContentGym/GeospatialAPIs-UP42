@@ -110,6 +110,6 @@ TODO: Fix this code sample
 ```
 **Pro-tip:** Set the clip_to_aoi parameter to true to save on data.  TODO: Add more detail.
 
-**Next step:** [5. Rerun a job (optional)](Specify-the-area-and-run-the-job.md) 
+**Next step:** [5. Download the Output/Data Processed by the specified Workflow](Download-the-Output.md) 
 
 [Back To The Overview](https://github.com/TheContentGym/GeospatialAPIs-UP42/blob/main/Overview.md)
