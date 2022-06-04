@@ -3,9 +3,9 @@ The following graphic gives you a sequence and overview of the steps involved in
 
 ![Steps involved in processing a territory using the UP42 APIs](UP42.drawio.png)
 
-#Steps
-**
-[1. Create a project in the UP42 Console UI](Steps/Create-a-project-in-the-UP42-Console-UI.md)  
+#Steps  
+
+**[1. Create a project in the UP42 Console UI](Steps/Create-a-project-in-the-UP42-Console-UI.md)  
 [2. Use the project ID and Project API key to generate a bearer token](Steps/Generate-a-bearer-token.md)  
 [3. Create a workflow that includes the data and one or more processing blocks](Steps/Create-a-workflow-that-includes-the-data-and-one-or-more-processing-blocks.md)  
 [4. Configure the job/process](Steps/Configure-the-job.md)  
