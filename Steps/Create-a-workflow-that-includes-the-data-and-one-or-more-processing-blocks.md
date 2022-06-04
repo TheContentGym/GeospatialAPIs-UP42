@@ -3,7 +3,7 @@
 A workflow is a Directed Acyclic Graph (DAG) of data and processing blocks. The workflow defines the order in which each operation associated with a certain block is performed.
 A workflow includes the following: 
 
-- **The first in the workflow, data block**: The first block is always a data block. A data block is an operator for a geospatial data source, such as a satellite or aerial images. 
+- **The first block in the workflow, a data block**: The first block is always a data block. A data block is an operator for a geospatial data source, such as a satellite or aerial images. 
 - **One or more processing blocks**: A processing block is an operator for processing the previous data source or processing block output. 
 
 ![An Example Workflow](images/Workflow.png)
