@@ -82,7 +82,7 @@ A workflow includes the following:
 |---|---|
 name | Name of the block to be created.|
 parentName | Name of the parent block. Keep this null for the first block. In subsequent blocks, specify the name of the earlier block. |
-blockID | Id for the block **(question: Where to find this? How can the user possibly know this before creating the task?)**|
+blockID | Id for the block `[QuestionToSME: Where to find this? How can the user possibly know this before creating the task?]`
 
 ### Sample Request Body
  ```json
@@ -108,7 +108,7 @@ Image Parameter | Value |
  Image type | Optical (true color)/RGB |
  Sensor |SPOT 6/7 |
 
-You can use the Id `30bea695-32c4-41a6-bf42-ea7cde644eb0` of the Tristereo Analytic data set.	More SPOT 6/7 datasets are listed at: [SPOT 6/7](https://docs.up42.com/tasking/datasets/spot). For more information on locating such a dataset, See [Search in the catalog](https://docs.up42.com/developers/api#operation/CatalogSearch). [QuestionToSME: I could not get this ID to work. When I tried to query this data set ID, I got the response "Block not found with id 30bea695-32c4-41a6-bf42-ea7cde644eb0". But this ID is listed on the site.]
+You can use the Id `30bea695-32c4-41a6-bf42-ea7cde644eb0` of the Tristereo Analytic data set.	More SPOT 6/7 datasets are listed at: [SPOT 6/7](https://docs.up42.com/tasking/datasets/spot). For more information on locating such a dataset, See [Search in the catalog](https://docs.up42.com/developers/api#operation/CatalogSearch). `[QuestionToSME: I could not get this ID to work. When I tried to query this data set ID, I got the response "Block not found with id 30bea695-32c4-41a6-bf42-ea7cde644eb0". But this ID is listed on the site.]`
 ### Sample response
 [See json file](https://github.com/TheContentGym/GeospatialAPIs-UP42/blob/main/Steps/Examples/Create_Workflow_Task_response.json)
 
