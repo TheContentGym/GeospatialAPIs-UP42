@@ -12,7 +12,7 @@ UP42 provides you following mediums to process the earth observation data:
 
 This document gives you step-by-step instructions to process a territory on earth using the **UP42 APIs** to:
 
-- Analyze the territory for a particular time \`[QuestionToSME: What type of analysis? The PDF spec doesn't say.]`
+- Analyze the territory for a particular time \ `[QuestionToSME: What type of analysis? The PDF spec doesn't say.]`
 - Analyze and compare the same territory for two different time durations to compare and find out the changes taking place in an area
 
 ### Use Case Area 
