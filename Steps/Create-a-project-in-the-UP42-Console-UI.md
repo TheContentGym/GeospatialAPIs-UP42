@@ -2,7 +2,7 @@
 # 1. Create a project in the UP42 Console UI
 Create a project and make note of your access credentials. For more information, see [Projects](https://docs.up42.com/processing-platform/projects). 
 ## Prerequisites:
-- A UP42 account
+- [A UP42 account](https://console.up42.com/sign-up)
 - [Access to commercial data](https://up42.com/goingup/personal-account-request) enabled, if required
 - Account Access enabled after attaching a credit or by contacting sales@up42.com
 ## Steps
