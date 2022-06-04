@@ -1,11 +1,11 @@
 ---
-stoplight-id: ytqves60xl61g
+#stoplight-id: ytqves60xl61g
 ---
 
 # Overview
 Below is an overview of the process for processing an image using the UP42 APIs and then using QGIS to visualize the data returned by the UP42 APIs.
-![UP42.drawio.png](https://stoplight.io/api/v1/projects/cHJqOjEzNjk5NA/images/7g0rGKIlOdo)
 
+![Steps involved in processing a territory using the UP42 APIs](UP42.drawio.png "processing a territory using the UP42 APIs")
 # Steps
 1. Create a project in the UP42 [Console UI](../Steps/1. Create-a-project-in-the-UP42-Console-UI.md)
 2. Use the project ID and Project API key to generate a bearer token 
