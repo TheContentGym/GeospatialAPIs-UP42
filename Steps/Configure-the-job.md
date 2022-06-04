@@ -2,7 +2,7 @@
 
 A job is a unique instance of a pre-configured workflow that delivers the outputs defined by the JSON parameters in the job configuration. In this use case, we have the UP42_challenge.geojson file that defines this configuration. 
 
-This topic includes information on creating and job and running it. You can also rerun a job created earlier. For more information on rerunning a job created earlier, see [Rerun A Job](Specify-the-area-and-run-the-job.md).
+This topic includes information on creating and job and running it. You can also rerun a job created earlier. For more information on rerunning a job created earlier, see [Rerun A Job](https://docs.up42.com/developers/api#operation/ReRunJob).
 
 ## UP42_challenge.geojson
 In this guide, we are using the UP42_challenge.geojson file, which specifies the coordinates of our Area Of Interest. The UP42_challenge.geojson file specifies a polygon area on Taormina coast in Sicily, Italy.
@@ -111,6 +111,12 @@ TODO: Fix this code sample
 `[QuestionToSME: I couldn't make this geojson file work in postman. I got the message: "There were additional tasks/queries specified: aws-s2-l2a:1, s2-superresolution:1, There were missing tasks/queries: terracover-realsat:1, sobloo-s2-l1c-fullscene:1","]`
 
 **Pro-tip:** Set the `clip_to_aoi` parameter to `true` to save on data. Set the `max_cloud_cover` parameter to `10` to use a clearer data set with max 10% cloud cover. `[TODO: Add more detail.]`
+
+ ## Sample Request Body/Payload
+ [See json file]()
+```json
+ {"data":{"id":"4da56bc7-34b5-4408-9dcd-31513f9e45e9","displayId":"4da56bc7","createdAt":"2022-05-28T17:40:43.482868Z","updatedAt":"2022-05-28T17:40:48.974890Z","createdBy":{"id":"cb5037d5-8bff-44ad-a2e6-a81a501df5ee","type":"API_KEY"},"updatedBy":{"id":"cb5037d5-8bff-44ad-a2e6-a81a501df5ee","type":"API_KEY"},"status":"NOT_STARTED","name":null,"startedAt":null,"finishedAt":null,"inputs":{"sobloo-s2-l1c-fullscene:1":{"ids":null,"time":"2018-01-01T00:00:00+00:00/2021-12-31T23:59:59+00:00","limit":1,"time_series":null,"max_cloud_cover":100,"bbox":[15.281896591186525,37.843139212870334,15.301809310913086,37.85405097280397]},"terracover-realsat:1":{"bbox":null,"contains":null,"intersects":null}},"mode":"DEFAULT","workflowId":"4726803c-d136-45d6-ac36-9efb347bee81","workflowName":"GTWorkflow350"},"error":null}
+ ```
 
 **Next step:** [5. Download the Output/Data Processed by the specified Workflow](Download-the-Output.md) 
 
