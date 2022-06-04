@@ -32,3 +32,4 @@ After your job is complete, you can download the data processed by the workflow 
 
 Use the URL to download the processed data. 
 
+**Final Step:** [7. Visualize the data in QGIS](Steps/Download-QGIS-and-Visualize-the-Downloaded-Data.md) 

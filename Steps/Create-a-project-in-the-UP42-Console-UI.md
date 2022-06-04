@@ -19,3 +19,4 @@ Create a project and make note of your access credentials.
       - Project ID
       - Project API Key 
 
+**Next step:** [2. Use the project ID and Project API key to generate a bearer token](Steps/Generate-a-bearer-token.md)
