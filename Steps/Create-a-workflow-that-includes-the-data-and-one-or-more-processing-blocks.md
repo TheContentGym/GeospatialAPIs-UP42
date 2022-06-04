@@ -113,4 +113,4 @@ See file
 
 **Next step:** [4. Configure the job/process](Configure-the-job.md)
 
-[Back To The Overview](../blob/main/Overview.md)
+[Back To The Overview](https://github.com/TheContentGym/GeospatialAPIs-UP42/blob/main/Overview.md)

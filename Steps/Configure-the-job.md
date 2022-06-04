@@ -112,4 +112,4 @@ TODO: Fix this code sample
 
 **Next step:** [5. Specify the area to be processed and Run the job](Specify-the-area-and-run-the-job.md) 
 
-[Back To Overview](../blob/Overview.md)
+[Back To The Overview](https://github.com/TheContentGym/GeospatialAPIs-UP42/blob/main/Overview.md)
