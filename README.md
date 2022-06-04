@@ -24,7 +24,6 @@ This guide uses the UP42 APIs and the following area as an example:
 - An all-encompassing generic document
 - A document to be freely circulated to the UP42 users 
 
-
-
+**Next:** [Steps in processing terrority using the UP42 APIs.](Overview.md) 
 
 
