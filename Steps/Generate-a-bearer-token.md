@@ -5,7 +5,7 @@ Use the following from the relevant project to generate a bearer token:
 - Project ID
 - Project API Key  
 
-![0_BearerTokenRequestAuth.png](https://stoplight.io/api/v1/projects/cHJqOjEzNjk5NA/images/Ek2HtrrhovI)
+![Generate Bearer Token](images/0_BearerTokenRequestAuth.png)
 
 |   |   |
 |---|---|
@@ -24,7 +24,7 @@ You can find the values for Project ID and Project API Key in the [Console](http
 
 `grant_type:client_credentials`
 
-![1_BearerTokenRequestBody.png](https://stoplight.io/api/v1/projects/cHJqOjEzNjk5NA/images/in75fQ37PGM)
+![Bearer Token Request Body](images/1_BearerTokenRequestBody.png)
 
 ## Response Body
 
@@ -38,8 +38,7 @@ You can find the values for Project ID and Project API Key in the [Console](http
 }
 ```
 Copy the value of `accessToken` to make requests. You can use the `accessToken` value to make API requests on UP42 server. For example, authorization using the bearer token to display available collections of images appears as follows in Postman: 
-![2_BearerTokenUsedToMakeCall.png](https://stoplight.io/api/v1/projects/cHJqOjEzNjk5NA/images/Nm7zm3uU6Wg)
-
+![Example: Bearer Token Used To Make A Call In Postman](images/2_BearerTokenUsedToMakeCall.png)
 
 **Important:** The bearer token is valid for 5 minutes. After 5 minutes, use this process again to generate bearer token and make further  
 
