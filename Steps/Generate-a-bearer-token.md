@@ -44,8 +44,9 @@ Copy the value of `accessToken` to make requests. You can use the `accessToken` 
 
 **Next step:** [3. Create a workflow that includes the data and one or more processing blocks](Create-a-workflow-that-includes-the-data-and-one-or-more-processing-blocks.md)
 
+***
 Back To:  
- 
-[Overview](https://github.com/TheContentGym/GeospatialAPIs-UP42/blob/main/Overview.md)
 
-[Readme.](https://github.com/TheContentGym/GeospatialAPIs-UP42/blob/main/README.md) 
+-[Overview](https://github.com/TheContentGym/GeospatialAPIs-UP42/blob/main/Overview.md)  
+-[Readme](https://github.com/TheContentGym/GeospatialAPIs-UP42/blob/main/README.md) 
+***

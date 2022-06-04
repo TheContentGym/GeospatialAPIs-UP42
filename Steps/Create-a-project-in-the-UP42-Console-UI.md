@@ -17,9 +17,10 @@ Create a project and make note of your access credentials. For more information,
 
 **Next step:** [2. Use the project ID and Project API key to generate a bearer token](Generate-a-bearer-token.md)
 
+***
 Back To:  
- 
-[Overview](https://github.com/TheContentGym/GeospatialAPIs-UP42/blob/main/Overview.md)
 
-[Readme.](https://github.com/TheContentGym/GeospatialAPIs-UP42/blob/main/README.md) 
+-[Overview](https://github.com/TheContentGym/GeospatialAPIs-UP42/blob/main/Overview.md)  
+-[Readme](https://github.com/TheContentGym/GeospatialAPIs-UP42/blob/main/README.md) 
+***
 
