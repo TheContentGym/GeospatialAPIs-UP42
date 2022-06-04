@@ -113,10 +113,7 @@ TODO: Fix this code sample
 **Pro-tip:** Set the `clip_to_aoi` parameter to `true` to save on data. Set the `max_cloud_cover` parameter to `10` to use a clearer data set with max 10% cloud cover. `[TODO: Add more detail.]`
 
  ## Sample Request Body/Payload
- [See json file]()
-```json
- {"data":{"id":"4da56bc7-34b5-4408-9dcd-31513f9e45e9","displayId":"4da56bc7","createdAt":"2022-05-28T17:40:43.482868Z","updatedAt":"2022-05-28T17:40:48.974890Z","createdBy":{"id":"cb5037d5-8bff-44ad-a2e6-a81a501df5ee","type":"API_KEY"},"updatedBy":{"id":"cb5037d5-8bff-44ad-a2e6-a81a501df5ee","type":"API_KEY"},"status":"NOT_STARTED","name":null,"startedAt":null,"finishedAt":null,"inputs":{"sobloo-s2-l1c-fullscene:1":{"ids":null,"time":"2018-01-01T00:00:00+00:00/2021-12-31T23:59:59+00:00","limit":1,"time_series":null,"max_cloud_cover":100,"bbox":[15.281896591186525,37.843139212870334,15.301809310913086,37.85405097280397]},"terracover-realsat:1":{"bbox":null,"contains":null,"intersects":null}},"mode":"DEFAULT","workflowId":"4726803c-d136-45d6-ac36-9efb347bee81","workflowName":"GTWorkflow350"},"error":null}
- ```
+ [See json file](https://github.com/TheContentGym/GeospatialAPIs-UP42/blob/main/Steps/Examples/CreateAndRunJob_response.json)
 
 **Next step:** [5. Download the Output/Data Processed by the specified Workflow](Download-the-Output.md) 
 
