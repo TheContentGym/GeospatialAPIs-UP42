@@ -108,7 +108,9 @@ TODO: Fix this code sample
   }
 }
 ```
-**Pro-tip:** Set the clip_to_aoi parameter to true to save on data.  TODO: Add more detail.
+`[QuestionToSME: I couldn't make this geojson file work in postman. I got the message: "There were additional tasks/queries specified: aws-s2-l2a:1, s2-superresolution:1, There were missing tasks/queries: terracover-realsat:1, sobloo-s2-l1c-fullscene:1","]`
+
+**Pro-tip:** Set the `clip_to_aoi` parameter to `true` to save on data. Set the `max_cloud_cover` parameter to `10` to use a clearer data set with max 10% cloud cover. `[TODO: Add more detail.]`
 
 **Next step:** [5. Download the Output/Data Processed by the specified Workflow](Download-the-Output.md) 
 

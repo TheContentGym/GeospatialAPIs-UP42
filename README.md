@@ -23,6 +23,7 @@ This guide uses the UP42 APIs and the following area as an example:
 - An API reference
 - An all-encompassing generic document
 - A document to be freely circulated to the UP42 users [QuestionToSME: some real project and job IDs are there in the doc - hopefully it is OK and no one else can utilize this information without authorization.]
+- Complete - there are queries embedded in some places with QuestionToSME: tags. 
 
 **Next:** [Overview: Steps in processing terrority using the UP42 APIs.](Overview.md) 
 
