@@ -1,7 +1,3 @@
----
-stoplight-id: q7khj74bqeljm
----
-
 
 # 7.Download QGIS and Visualize the Downloaded Data
 

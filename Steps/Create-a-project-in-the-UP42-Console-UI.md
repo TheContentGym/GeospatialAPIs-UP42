@@ -1,8 +1,3 @@
----
-stoplight-id: 0167829ec90fe
----
-
-
 
 # 1. Create a project in the UP42 Console UI
 Create a project and make note of your access credentials. 

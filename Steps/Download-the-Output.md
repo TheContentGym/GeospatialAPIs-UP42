@@ -1,6 +1,3 @@
----
-stoplight-id: 13d1nh775mfr9
----
 
 # 6. Download the Output/Data Processed by the specified Workflow  
 
