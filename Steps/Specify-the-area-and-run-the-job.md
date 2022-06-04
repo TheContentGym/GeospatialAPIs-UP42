@@ -1,6 +1,6 @@
-# 5. Specify-the-area-and-run-the-job
+# 5. Rerun A Job
 
-The beginning of an awesome article...
+A job runs anyway when you create it. You can also rerun a job created earlier using the following information:
 
 **Next Step:** [6. Download and unpack the data analysis returned by UP42 for the selected area as per the workflow](Download-the-Output.md) 
 

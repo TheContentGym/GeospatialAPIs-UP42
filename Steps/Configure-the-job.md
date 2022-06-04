@@ -1,11 +1,11 @@
-# 4.Configure The Job
+# 4.Configure and Run The Job
 
 A job is a unique instance of a pre-configured workflow that delivers the outputs defined by the JSON parameters in the job configuration. In this use case, we have the UP42_challenge.geojson file that defines this configuration. 
 
-## UP42_challenge.geojson
-In this guide, we are using the UP42_challenge.geojson file, which specifies the coordinates of our Area Of Interest. 
+This topic includes information on creating and job and running it. You can also rerun a job created earlier. For more information on rerunning a job created earlier, see [Rerun A Job](Specify-the-area-and-run-the-job.md).
 
-The UP42_challenge.geojson file specifies a polygon area on Taormina coast in Sicily, Italy.
+## UP42_challenge.geojson
+In this guide, we are using the UP42_challenge.geojson file, which specifies the coordinates of our Area Of Interest. The UP42_challenge.geojson file specifies a polygon area on Taormina coast in Sicily, Italy.
 
 Following are the contents of the geojson file:
 TODO: Fix this code sample
@@ -110,6 +110,6 @@ TODO: Fix this code sample
 ```
 **Pro-tip:** Set the clip_to_aoi parameter to true to save on data.  TODO: Add more detail.
 
-**Next step:** [5. Specify the area to be processed and Run the job](Specify-the-area-and-run-the-job.md) 
+**Next step:** [5. Rerun a job (optional)](Specify-the-area-and-run-the-job.md) 
 
 [Back To The Overview](https://github.com/TheContentGym/GeospatialAPIs-UP42/blob/main/Overview.md)
