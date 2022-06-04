@@ -6,7 +6,7 @@ A workflow includes the following:
 - **The first in the workflow, data block**: The first block is always a data block. A data block is an operator for a geospatial data source, such as a satellite or aerial images. 
 - **One or more processing blocks**: A processing block is an operator for processing the previous data source or processing block output. 
 
-<img align="center" width="100" height="100" src="https://stoplight.io/api/v1/projects/cHJqOjEzNjk5NA/images/a1EFriVv0CQ">
+![An Example Workflow](images/Workflow.png)
 <b>Image - A workflow with a data block and two processing blocks </b>
 
 
@@ -112,3 +112,5 @@ For more information on locating such a dataset, See Search in the catalog.
 See file
 
 **Next step:** [4. Configure the job/process](Configure-the-job.md)
+
+[Back To The Overview](../blob/main/Overview.md)
