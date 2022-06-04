@@ -14,4 +14,4 @@ The following graphic gives you a sequence and overview of the steps involved in
 [5. Download and unpack the data analysis returned by UP42 for the selected area as per the workflow](Steps/Download-the-Output.md)  
 [6. Visualize the data in QGIS](Steps/Download-QGIS-and-Visualize-the-Downloaded-Data.md)  
 
-[Back To The Readme.](README.md) 
+[Back To The Readme](README.md) 
