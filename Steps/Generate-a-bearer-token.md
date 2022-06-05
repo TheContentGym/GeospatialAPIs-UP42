@@ -2,8 +2,8 @@
 # 2. Generate a bearer token and copy its value
 
 Use the following from the relevant project to generate a bearer token ([more information:](https://docs.up42.com/developers/authentication)):
-- Project ID
-- Project API Key  
+- Project ID as Username
+- Project API Key as Password
 
 ![Generate Bearer Token](images/0_BearerTokenRequestAuth.png)
 
