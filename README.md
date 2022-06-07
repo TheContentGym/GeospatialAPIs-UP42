@@ -3,7 +3,7 @@
 ## About UP42
 UP42 is a geospatial platform with industry-leading data, empowering innovative organizations and solution providers to scale faster and more affordably. UP42 makes it easier than ever to access and analyze open and commercial Earth Observation data while maintaining all the flexibility and interoperability of an open API.
 
-UP42 provides you following mediums to process the earth observation data:
+UP42 provides you following mediums to process their earth observation data:
 - The Console UI
 - The UP42 SDK
 - UP42 APIs
