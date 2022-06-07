@@ -17,7 +17,7 @@ Use the following from the relevant project to generate a bearer token ([more in
  Body               | x-www-form-urlencoded              |
 
                     
-You can find the values for Project ID and Project API Key in the [Console](https://console.up42.com/) > Projects > [Project Name] > Developers. 
+You can find the values for Project ID and Project API Key in [Console](https://console.up42.com/) > Projects > [Project Name] > Developers. 
 
 ## Request Body
 
