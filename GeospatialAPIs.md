@@ -1,7 +1,3 @@
----
-stoplight-id: zeiaubotefjyr
----
-
 # Processing satellite imagery using UP42 APIs
 
 This guide helps you process a territory on earth using the UP42 APIs to:
