@@ -8,7 +8,7 @@ Create a project and make note of your access credentials. For more information,
 ## Steps
 1. Log in to the [UP42 console](https://console.up42.com/).
 2. Click **Projects** > **Start a Project**.
-3. Specify Name and Description for the project and click Save.
+3. Specify **Name** and **Description** for the project and click **Save**.
 4. Select the project name and then click **Developers**.
 5. Copy the values of the following and keep them safe with you:
       - **Project ID**
