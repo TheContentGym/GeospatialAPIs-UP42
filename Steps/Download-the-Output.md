@@ -1,7 +1,7 @@
 
 # 6. Download the Output/Data Processed by the specified Workflow  
 
-After your job is complete, you can download the data processed by the workflow you specified. 
+After your job is complete, download the data processed by the workflow you specified. 
 
 **Protip:** You can use webhooks to set up alerts for the completion of your workflow processing. 
 
